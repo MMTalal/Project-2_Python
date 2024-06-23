@@ -50,4 +50,4 @@ Error: Invalid operation. Please choose from +, -, , /, %, *, //.
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/MMTalal/Project-2_Python).
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/MMTalal/SimpleCalculator).
