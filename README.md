@@ -4,7 +4,7 @@ This is a simple command-line calculator program written in Python. It allows th
 
 ## Usage
 
-To use the calculator, simply run the `calculator.py` script. The program will prompt the user to input the first number, choose an operation, and input the second number. The result of the calculation will be displayed.
+To use the calculator, simply run the `Simple Calculator.py` script. The program will prompt the user to input the first number, choose an operation, and input the second number. The result of the calculation will be displayed.
 
 ```
 $ python calculator.py
